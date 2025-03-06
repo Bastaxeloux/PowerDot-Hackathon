@@ -1,5 +1,7 @@
 # PowerDot Hackathon - Predictive Maintenance Project
 
+Hackathon realised with [Aymane Hamdaoui](https://github.com/Mamannne), [Nathan Rouillé](https://github.com/NathanRouille), [Titouan Duhazé](https://github.com/titiuo), [Adam Chgour](https://github.com/adamchgour), and [Maël Le Guillouzic](https://github.com/Bastaxeloux)
+
 This repository contains our work developed during the PowerDot Hackathon, aiming at predicting failures and maintenance needs of electric vehicle charging stations.
 
 The goal of our project was to leverage machine learning to proactively detect patterns leading to charger failures. Through predictive modeling, our solution intends to reduce downtime, improve service quality, and optimize maintenance operations.
